@@ -1,6 +1,7 @@
 # GTNH Modify （万宁GTNH）
 GTNH整合包的修改Mod，致力于修改合成表。
-
+# 该版本来源为https://github.com/wohaopa/GTNHModify
+# 本人新手，该版本仅为个人使用，同时因学业原因，不保证有后续更新。
 [English](./README.md)
 中文
 
